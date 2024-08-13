@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Connector_Generic")(type "Legacy")(uri "${KIPRJMOD}/Connector_Generic/Connector_Generic.lib")(options "")(descr ""))
+)
